@@ -1,0 +1,9 @@
+{
+  "name": "Animation Studio",
+  "short_name": "Animation",
+  "description": "Mobile animation editor",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#09060f",
+  "theme_color": "#09060f"
+}

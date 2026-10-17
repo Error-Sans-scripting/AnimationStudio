@@ -1,0 +1,8 @@
+{
+  "appId": "studio.afternight.app",
+  "appName": "After Night",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}

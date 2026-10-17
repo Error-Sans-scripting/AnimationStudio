@@ -1,0 +1,20 @@
+{
+  "name": "after-night-studio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "After Night mobile animation editor",
+  "scripts": {
+    "start": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "android": "cap sync android",
+    "android:open": "cap open android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.2.0",
+    "@capacitor/cli": "^6.2.0",
+    "@capacitor/core": "^6.2.0"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0"
+  }
+}
